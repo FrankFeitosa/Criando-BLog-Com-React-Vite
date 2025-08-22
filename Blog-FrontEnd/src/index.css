@@ -19,3 +19,13 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+
+div.col{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 2rem;
+    align-items: center;
+    gap: 20px;
+    text-align: justify;
+
+}

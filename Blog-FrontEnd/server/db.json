@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "login": "admin",
+      "password": "123123"
+    },
+    {
+      "id": "2",
+      "name": "Teste",
+      "login": "teste",
+      "password": "123123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Curso da GT",
+      "content": "O melhor da tecnologia  "
+    },
+    {
+      "id": "ba8b",
+      "title": "Curso Valley",
+      "content": "Com a melhor segurança da informação"
+    },
+    {
+      "id": "d43a",
+      "title": "Curso Online Rural",
+      "content": "Manuseios de plantios e demais culturas."
+    },
+    {
+      "id": "80ac",
+      "title": "Curso da Valley",
+      "content": "Ciências de dados"
+    }
+  ],
+  "comments": []
+}
